@@ -30,3 +30,10 @@ Here are some ideas to get you started:
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tember8003&show_icons=true&theme=radical)
+
+---
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuchan8003)](https://solved.ac/yuchan8003)
+
+---
