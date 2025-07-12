@@ -1,4 +1,4 @@
-## 안녕하세요 반갑습니다! 👋
+## Hello 👋
 
 <!--
 **tember8003/tember8003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://velog.io/@jyc_20240101/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/yuchan8003@naver.com-76BB21?style=flat-square&logo=mailbox.org&logoColor=white"/>
-
-**차근차근 성장하고 있는 개발자입니다. 백엔드를 주력으로 공부하고 있습니다 😊**
 
 ---
 
