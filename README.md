@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 &nbsp;
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tember8003&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tember8003)](https://github.com/tember8003/github-readme-stats)
 
 &nbsp;
 
