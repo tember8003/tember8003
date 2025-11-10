@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/tember8003?pet-id=1" width="1000" height="120"/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=tember8003&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/tember8003?pet-id=775573419647646545"
+    width="600"
+    height="120"
+  />
 </a>
+  
