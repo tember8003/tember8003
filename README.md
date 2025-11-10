@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuchan8003)](https://solved.ac/yuchan8003)
 
 ---
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
