@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 
 ---
 
-
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/775577520078916569/draw"
@@ -38,4 +37,3 @@ Here are some ideas to get you started:
         alt="gitanimals"
       />
     </a>
-  
