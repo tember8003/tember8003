@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 <a href="https://velog.io/@jyc_20240101/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/yuchan8003@naver.com-76BB21?style=flat-square&logo=mailbox.org&logoColor=white"/>
 
----
 
-![Anurag's GitHub stats](https://github-readme-stats-henna-theta-15.vercel.app/api?username=tember8003&show_icons=true&theme=tokyonight)
-
-&nbsp;
+![Anurag's GitHub stats](https://github-readme-stats-henna-theta-15.vercel.app/api?username=tember8003&show_icons=true&theme=tokyonight) 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=yuchan8003)](https://solved.ac/yuchan8003)
