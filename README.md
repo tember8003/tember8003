@@ -67,6 +67,4 @@
     <img src="https://render.gitanimals.org/guilds/775577520078916569/draw" width="80%" alt="gitanimals" />
   </a>
   <br/>
-  <br/>
-  <img src="https://raw.githubusercontent.com/tember8003/contribution-city/main/contribution-city.svg" width="80%" alt="Contribution City" />
 </div>
