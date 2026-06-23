@@ -11,7 +11,7 @@
 <br/>
 
 ## 🛠️ Tech Stack
-
+<div align="center">
 <table>
   <tr>
     <td width="150"><strong>Backend</strong></td>
