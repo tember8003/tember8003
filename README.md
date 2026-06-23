@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello 👋
+## Hello There👋
 
 <a href="https://jeonggrius.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://velog.io/@jyc_20240101/posts" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
